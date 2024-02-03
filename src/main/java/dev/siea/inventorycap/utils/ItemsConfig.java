@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ItemsConfig {
-    private static ConfigUtil config = new ConfigUtil(InventoryCap.getPlugin(), "Items.yml");
+    private static final ConfigUtil config = new ConfigUtil(InventoryCap.getPlugin(), "Items.yml");
 
     public static HashMap<Material, Integer> getItemCaps() {
         Map<String, Object> itemCapsMap = config.getConfig().getValues(false);
