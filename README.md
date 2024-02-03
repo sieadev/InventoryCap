@@ -5,6 +5,8 @@ InventoryCap is a straightforward Minecraft plugin that lets server admins contr
 
 ## Support the Project
 
+![diamonds](https://github.com/sieadev/InventoryCap/assets/69807609/1a410e91-eb05-48d3-aba4-114efa74c0f1)
+
 If you find InventoryCap useful and want to show your support, consider buying me a coffee on Ko-fi!
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate%20now-orange.svg)](https://ko-fi.com/sieadev)
